@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="main_theme_color">#0195ff</color>
+
+    <color name="fd_grey">#55939393</color>
+    <color name="fd_bg_title">#77939393</color>
+    <color name="fd_bg_item">#4cffffff</color>
+    <color name="fd_text_white">#ffffff</color>
+    <color name="fd_text_nomal">#cacaca</color>
+    <color name="fd_bg_main">#ebeef4</color>
+    <color name="fd_text_menu">#333333</color>
+    <color name="fd_text_gray">#666666</color>
+    <color name="fd_bg_text">#00ff11</color>
+
+    <color name="press">#e8e8e8</color>
+    <color name="white">#FFFFFF</color>
+    <color name="bind_bg">#23DF9F</color>
+
+
+</resources>
