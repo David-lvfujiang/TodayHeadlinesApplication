@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@mipmap/msg"
+        android:title="我的消息"
+        />
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@mipmap/write"
+        android:title="编辑信息" />
+    setting
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@mipmap/connext"
+        android:title="联系客服" />
+    <item
+        android:id="@+id/navigation_system"
+        android:icon="@mipmap/system"
+        android:title="系统消息" />
+    <item
+        android:id="@+id/navigation_setting"
+        android:icon="@mipmap/setting"
+        android:title="设置" />
+
+</menu>
